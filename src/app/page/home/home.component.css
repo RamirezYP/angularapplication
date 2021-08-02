@@ -1,0 +1,21 @@
+.showcase {
+  margin-top: 30%;
+  height: 350px;
+  background: url(https://images.pexels.com/photos/811838/pexels-photo-811838.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-size: cover;
+  background-position: center;
+}
+.showcase2 {
+  margin-top: 30%;
+  height: 350px;
+  background: url(https://images.pexels.com/photos/65718/pexels-photo-65718.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940);
+  background-size: cover;
+  background-position: center;
+}
+.showcase3 {
+  margin-top: 30%;
+  height: 350px;
+  background: url(https://images.pexels.com/photos/164758/pexels-photo-164758.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-size: cover;
+  background-position: center;
+}
